@@ -4,7 +4,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sachin9272&label=Profile%20views&color=0e75b6&style=flat" alt="sachin9272" /> </p>
 
 
-- 🔭 I’m currently learning **Next js.**
+- 🔭 I’m currently learning **Next js and Typescript**
 
 - 💬 Ask me about **FullStack Web Development, Competitive Programming and Problem Solving**
 
